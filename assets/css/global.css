@@ -4,17 +4,14 @@
 }
 
 body {
-    background: rgb(255,188,0);
-    background: linear-gradient(90deg, rgba(255,188,0,1) 54%, rgba(249,255,0,1) 100%);
+    background-color: #f6f8fc;
 }
 
 .content {
     width: 100vw;
     height: 100vh;
     padding: 1rem;
-    
-    background: rgb(255,255,255);
-    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 82%);
+    background-color: #fff;
 }
 
 .content .titulo {
